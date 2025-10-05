@@ -5,7 +5,7 @@ The Digital Visitor Registry is designed to simplify and digitize the process of
 
 <br>
 
-**Built With:** MEAN Stack (MongoDB, Express.js, React, Node.js) <br>
+**Built With:** MERN Stack (MongoDB, Express.js, React, Node.js) <br>
 
 **Key Features:**
 
