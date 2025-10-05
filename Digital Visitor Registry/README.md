@@ -1,11 +1,11 @@
 
 # Digital Visitor Registry
 
-The Digital Visitor Registry is designed to simplify and digitize the process of handling visitors at institutions. Instead of relying on manual logbooks and tedious paperwork, VMS allows for a seamless digital check-in experience. It not only tracks every individual entering the campus but also records their duration of stay. Traditional methods, where guards manually log visitor details, are inefficient and hard to reconcile. VMS eliminates these issues, making the visitor entry, exit, and tracking process more efficient and user-friendly.
+The Digital Visitor Registry is designed to simplify and digitize the process of handling visitors at institutions. Instead of relying on manual logbooks and tedious paperwork, DVR allows for a seamless digital check-in experience. It not only tracks every individual entering the campus but also records their duration of stay. Traditional methods, where guards manually log visitor details, are inefficient and hard to reconcile. DVR eliminates these issues, making the visitor entry, exit, and tracking process more efficient and user-friendly.
 
 <br>
 
-**Built With:** MEAN Stack (MongoDB, Express.js, Angular, Node.js) <br>
+**Built With:** MEAN Stack (MongoDB, Express.js, React, Node.js) <br>
 
 **Key Features:**
 
